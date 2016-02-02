@@ -1,0 +1,5 @@
+class TreeNode{
+  Object element;
+  TreeNode leftChild;
+  TreeNode rightChild;
+}
